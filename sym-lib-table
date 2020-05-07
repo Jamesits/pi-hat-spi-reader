@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name raspberrypi_hat)(type Legacy)(uri ${KIPRJMOD}/project_components/pi-hat-spi-reader.lib)(options "")(descr ""))
+  (lib (name pi-hat-spi-reader-rescue)(type Legacy)(uri ${KIPRJMOD}/pi-hat-spi-reader-rescue.lib)(options "")(descr ""))
+)
